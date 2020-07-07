@@ -31,4 +31,4 @@ int main(){
 /*ref:
  * http://blog.linux.org.tw/~jserv/archives/001876.html
  * https://www.ptt.cc/bbs/C_and_CPP/M.1320222204.A.FFC.html
- *                                                          /
+ */
